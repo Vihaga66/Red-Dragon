@@ -11,8 +11,23 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `*👋 hello යාලුවනේ*
+*⭕ VIHAGA Whatsapp BOT Group*
+
+*◉══════════════════════◉*
+  *😌 Group rules and information 😉*
+*◉══════════════════════◉*
+
+*⭕ උදේ 6:00 AM - සිට රාත්‍රී 9:30 දක්වා වැඩ*
+*⭕ Bot ගේ inbox යන්න එපා block වෙයි නිකන්ම*
+*⭕ Please don't go Bot's inbox* 
+*⭕ වෙන bot ලා add කරන්න එපා ( removed )*
+*⭕ අනවශ්‍ය දේවල් search කරන්න එපා ( removed )*
+*⭕ Group Link / අනවශ්‍යය link දැම්මොත් ( removed )*
+*⭕ Admin ඉල්ලන්න එපා දෙන්නේ නෑ*
+*⭕ Notification එන එක කරදරයක් නං (Mute) ඔබන්න*
+
+😏 .grouplink` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
