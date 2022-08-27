@@ -30,7 +30,7 @@ global.alivemsg = `*👋 hello යාලුවනේ*
 😏 .grouplink` //Costomize Alive Message (type your message in `` )
 
 
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
@@ -44,9 +44,9 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
-global.ytname = "" // yt chanel name
+global.vcardowner = ['Hi 🤭'] // owner number
+global.ownername = "💛 VIHANGA❯❯" // owner name
+global.ytname = "VIHAGA MUSIC VIDEO" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
