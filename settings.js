@@ -56,7 +56,7 @@ global.alivepic = `https://i.ibb.co/0fg52p7/20220715-162421.jpg` // alive pictur
 
 global.dragonchat = "true"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "true" // call block "true" / "false" ("true"  to block callers)
-global.antibad = "false" // To remove bad word senders
+global.antibad = "true" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
 global.antilink = "false" // To remove group link sharing peoples
 global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
